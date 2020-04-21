@@ -1,0 +1,9 @@
+Itens para implantação no site 18/04/2020:
+1 - mudar layout de notícia e eventos
+2 - aumentar tamanho do panfleto em plano - [nao da]
+3 - criar sub página Dentistas
+4 - criar botão flutuante fale conosco - ok
+5 - criar banner de destaque quando abre a página 
+6 - configurar e-mail contato@maissaudeitabira.com.br_
+7 - hospedar o sistema abaixo:
+https://drive.google.com/file/d/1ReQoNuOzHmaj1Up9k6iKhRnRrAluXmU-/view?usp=sharing
